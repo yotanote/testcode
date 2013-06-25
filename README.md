@@ -1,6 +1,12 @@
 testcode
 ========
 
-testcode - Node.js: socket.io/cheerio/mkdirp
+testcode - Node.js: 
 
-Don't think, we should feel.
+**memo
+
+use modules
+
+socket.io
+cheerio
+mkdirp
